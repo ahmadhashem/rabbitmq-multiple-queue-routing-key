@@ -1,4 +1,4 @@
-# This app demonstrates how to define multiple RabbitMQ queues that binds to the same ecxchange, and based on the routing key, the message is routed to the related queue
+### This app demonstrates how to define multiple RabbitMQ queues that binds to the same ecxchange, and based on the routing key, the message is routed to the related queue
 
 The app defines two queues, one is processing and other is archive. The application then listens to both queues using two consumers for each queue.
 
