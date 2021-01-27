@@ -1,8 +1,0 @@
-com/ahmed/messagingrabbitmq/MessagingRabbitmqApplication.java
- com.ahmed.messagingrabbitmq.MessagingRabbitmqApplication
-com/ahmed/messagingrabbitmq/Receiver1.java
- com.ahmed.messagingrabbitmq.Receiver1
-com/ahmed/messagingrabbitmq/Receiver2.java
- com.ahmed.messagingrabbitmq.Receiver2
-com/ahmed/messagingrabbitmq/Runner.java
- com.ahmed.messagingrabbitmq.Runner
